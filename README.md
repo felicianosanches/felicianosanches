@@ -4,21 +4,21 @@
 
 💻 Apaixonado por tecnologia, sempre aprendendo novas ferramentas e buscando minha primeira oportunidade na área de desenvolvimento.
 
-Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprendiz ou Estagiário na área de Tecnologia, com interesse em **desenvolvimento backend em Python e análise de dados**** Possuo conhecimentos em lógica de programação, estrutura de dados, orientação a objetos, banco de dados SQL e ferramentas de análise e visualização de dados. Busco aplicar meus conhecimentos em projetos reais, contribuindo com soluções eficientes e gerando resultados para a equipe.
+Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprendiz ou Estagiário na área de Tecnologia, com interesse em **desenvolvimento backend em Python e análise de dados**. Possuo conhecimentos em lógica de programação, estrutura de dados, orientação a objetos, banco de dados SQL e ferramentas de análise e visualização de dados. Busco aplicar meus conhecimentos em projetos reais, contribuindo com soluções eficientes e gerando resultados para a equipe.
+
+---
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/felicianosanches">
-    <img src="https://img.shields.io/badge/GitHub-felicianosanches-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/felicianosanches" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-felicianosanches-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-
-  <a href="https://www.linkedin.com/in/feliciano-sanches-neto-18a088399/">
-    <img src="https://img.shields.io/badge/LinkedIn-Feliciano%20Sanches%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/feliciano-sanches-neto-18a088399/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Feliciano%20Sanches%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:felicianosanchesneto158@gmail.com">
-    <img src="https://img.shields.io/badge/Email-felicianosanchesneto158%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:feliciano.sanches.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-feliciano.sanches.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -56,12 +56,7 @@ Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprend
 - Tratamento de exceções
 
 ### 🗄️ Banco de Dados SQL Server
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- JOIN
-- Funções de agregação
+- Consultas e comandos: `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `JOIN` e Funções de agregação.
 
 ---
 
@@ -89,7 +84,6 @@ Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprend
 
 - 🇧🇷 Português — Nativo
 
-
 ---
 
 ## 🤝 Soft Skills
@@ -114,12 +108,10 @@ Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprend
 
 ## 📫 Contato
 
-- 📧 **Email:** feliciano.sanches.dev@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/feliciano-sanches-neto-18a088399/
-- 🐙 **GitHub:** https://github.com/felicianosanches
+- 📧 **Email:** [feliciano.sanches.dev@gmail.com](mailto:feliciano.sanches.dev@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/feliciano-sanches-neto](https://www.linkedin.com/in/feliciano-sanches-neto-18a088399/)
+- 🐙 **GitHub:** [github.com/felicianosanches](https://github.com/felicianosanches)
 
 ---
 
 ⭐ Sempre buscando evoluir como desenvolvedor Backend Python e contribuir com projetos reais. Aberto a oportunidades de **Estágio** e **Jovem Aprendiz** em Tecnologia.
-
- 
