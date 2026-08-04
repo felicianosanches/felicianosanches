@@ -64,11 +64,11 @@ Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprend
 
 ### Aplicadas em projetos
 
-![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Intermediário-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Básico-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Intermediário-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Intermediário-181717?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-Intermedi%C3%A1rio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermedi%C3%A1rio-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-B%C3%A1sico-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Intermedi%C3%A1rio-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Intermedi%C3%A1rio-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Em aprendizado
@@ -82,7 +82,8 @@ Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprend
 
 ## 🗣️ Idiomas
 
-- 🇧🇷 Português — Nativo
+- 🇧🇷 **Português** — Nativo
+- 🇺🇸 **Inglês** — Básico / Técnico
 
 ---
 
@@ -109,7 +110,7 @@ Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprend
 ## 📫 Contato
 
 - 📧 **Email:** [feliciano.sanches.dev@gmail.com](mailto:feliciano.sanches.dev@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/feliciano-sanches-neto](https://www.linkedin.com/in/feliciano-sanches-neto-18a088399/)
+- 💼 **LinkedIn:** [linkedin.com/in/feliciano-sanches-neto-18a088399](https://www.linkedin.com/in/feliciano-sanches-neto-18a088399/)
 - 🐙 **GitHub:** [github.com/felicianosanches](https://github.com/felicianosanches)
 
 ---
