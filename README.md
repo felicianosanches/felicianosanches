@@ -67,8 +67,8 @@ Estudante de Sistemas de Informação em busca de oportunidade como Jovem Aprend
 ![Python](https://img.shields.io/badge/Python-Intermedi%C3%A1rio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Intermedi%C3%A1rio-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-B%C3%A1sico-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Intermedi%C3%A1rio-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Intermedi%C3%A1rio-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-B%C3%A1sico-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-B%C3%A1sico-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Em aprendizado
